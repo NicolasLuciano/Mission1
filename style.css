@@ -1,0 +1,88 @@
+*{
+    margin: 0;
+}
+
+
+
+nav{
+    background-color: rgba(48, 52, 63, 1);
+}
+
+.Section-1{
+    height: 388px;
+    background-image: url(/multimedia/funkos-banner.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center 75%;
+    background-blend-mode: soft-light; background-color: rgba(0, 0, 0, 0.6);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color: white;
+}
+
+.Section-2{
+    margin-top: 100px;
+    height: 300px;
+}
+
+nav{
+    height: 144px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.ul-nav{
+    display: flex;
+    align-items: center;
+    list-style: none;
+}
+
+.item-nav{
+    margin: 0px 20px;
+}
+
+
+a{
+    text-decoration: none;
+    color: white;
+    margin: 0;
+}
+
+.articulo-banner{
+    margin-left: 100px;
+    height: 100px;
+}
+
+.botonShop{
+    margin-top: 30px;
+    text-decoration: none;
+    color: rgb(20, 18, 18);
+    background-color: white;
+    padding: 4px 45px;
+    border-radius: 50px;
+}
+
+.titulo-ingreso{
+    margin-bottom: 0;
+}
+
+.articulo-swars{
+    margin-left: 100px;
+    height: 100px;
+}
+
+.div-coleccion{
+    border-bottom: 3px solid red;
+    width: 50%;
+    margin-bottom: 40px;
+}
+
+.boton-coleccion{
+    background-color: #30343F;
+    margin-top: 20px;
+    padding: 10px;
+    border-radius: 50px;
+}
+
